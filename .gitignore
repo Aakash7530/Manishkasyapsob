@@ -12,6 +12,7 @@
 /resources/js/wayfinder
 /vendor
 .DS_Store
+# Keep environment secrets out of the repo
 .env
 .env.backup
 .env.production
