@@ -1,0 +1,3 @@
+src/libmongoc/src/libmongoc/src/mongoc/mongoc-secure-transport.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libmongoc/src/mongoc/mongoc-secure-transport.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libmongoc/src/mongoc/mongoc-config.h

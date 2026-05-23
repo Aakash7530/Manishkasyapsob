@@ -1,0 +1,7 @@
+src/libmongoc/src/libbson/src/bson/bson-timegm.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/bson/bson-timegm.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-timegm-private.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h

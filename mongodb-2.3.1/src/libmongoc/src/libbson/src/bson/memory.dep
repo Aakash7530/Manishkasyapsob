@@ -1,0 +1,12 @@
+src/libmongoc/src/libbson/src/bson/memory.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/bson/memory.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/memory.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-macros-private.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/ckdint.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/intutil.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/test.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/cmp.h

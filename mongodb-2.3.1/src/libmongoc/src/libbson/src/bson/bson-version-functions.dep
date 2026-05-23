@@ -1,0 +1,12 @@
+src/libmongoc/src/libbson/src/bson/bson-version-functions.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/bson/bson-version-functions.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-version-functions.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-types.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-endian.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson_t.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/error.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/version.h

@@ -1,0 +1,8 @@
+src/libmongoc/src/libbson/src/jsonsl/jsonsl.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/jsonsl/jsonsl.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/jsonsl/jsonsl.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/memory.h

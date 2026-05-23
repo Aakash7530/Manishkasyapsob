@@ -1,0 +1,18 @@
+src/libmongoc/src/libbson/src/bson/bson-oid.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/bson/bson-oid.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-oid.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-context.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-types.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-endian.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson_t.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/error.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-context-private.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-thread-private.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-macros-private.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/common-config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-string.h

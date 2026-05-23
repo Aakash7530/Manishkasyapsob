@@ -1,0 +1,9 @@
+src/libmongoc/src/common/src/common-thread.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/common/src/common-thread.c \
+  src/libmongoc/src/common/src/common-thread-private.h \
+  src/libmongoc/src/common/src/common-prelude.h \
+  src/libmongoc/src/common/src/common-macros-private.h \
+  src/libmongoc/src/common/src/common-config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h

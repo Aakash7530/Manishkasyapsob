@@ -1,0 +1,19 @@
+src/libmongoc/src/libbson/src/bson/bson-clock.lo: \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/src/libmongoc/src/libbson/src/bson/bson-clock.c \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/compat.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/macros.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/duration.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/ckdint.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/config.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/intutil.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/test.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/cmp.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/time_point.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/common/src/mlib/platform.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-clock.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-prelude.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-types.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson-endian.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/bson_t.h \
+  /Users/apple/Desktop/myproject/mongodb-2.3.1/./src/libmongoc/src/libbson/src/bson/error.h
